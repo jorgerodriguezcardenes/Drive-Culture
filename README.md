@@ -1,5 +1,5 @@
 # Drive culture 
-## Despcripción
+## Descripción
 Drive Culture es una pagina para los amantes del motor, asi mostrar todo tipo de coches del mundo 
 
 Este proyecto se ha realizado utilizando HTML y CSS en el VCS.
